@@ -64,3 +64,9 @@ White-label solutions provide a compelling way to start your on-demand **[Uber f
 Prepare to launch your car repair business effortlessly with [Sangvish](https://sangvish.com/) Uber for Mechanics, the ideal solution geared to your brand's unique needs and worldwide success. Sangvish differentiates itself by providing a comprehensive one-year tech support package to strengthen your business. To know more about Uber for Mechanics and see a live demo, schedule a meeting with us.
 
 Check our live demo: https://sangvish.com/uber-for-mechanics/
+
+**Contact us,**
+
+Call: +91- 8300505021
+
+Mail ID- info@sangvish.com
