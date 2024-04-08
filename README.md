@@ -5,7 +5,7 @@
 
 This article looks into the topic of white-label solutions for Uber for mechanics app, allowing you to create your own game-changing platform. We'll look at the benefits, important features, and development process to provide you with the knowledge you need to start a successful business.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“uberformachanics.png" src="https://github.com/sangvishtechnologies/uber-for-machanics/blob/main/images/uber-for-mechanics-sangvish.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“uberformechanics.png" src="https://github.com/sangvishtechnologies/uber-for-mechanics/blob/main/images/uber-for-mechanics-sangvish.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
 
 
 # Why Choose a White-Label Solution?
@@ -31,8 +31,7 @@ A successful **[on-demand mechanic's app](https://sangvish.com/uber-for-mechani
 * **Order Tracking:** Real-time tracking of the mechanic's arrival time keeps users up to date.
 * **Service History:** Users can get a record of previous fixes for future reference.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“uberformachanics.png" src="https://github.com/sangvishtechnologies/uber-for-machanics/blob/main/images/uber-for-mechanics.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
-
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“uberformechanics.png" src="https://github.com/sangvishtechnologies/uber-for-mechanics/blob/main/images/uber-for-mechincs-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
 
 ### **Mechanics App:**
 * **Job Board:** Mechanics are notified of new service requests within their specified region.
@@ -49,7 +48,7 @@ Integration: Payment gateways and other third-party services are connected to e
 * **Testing and Deployment:** Before releasing an app to the app stores, it is rigorously tested to guarantee that it is free of bugs.
 * **Maintenance and Support:** Ongoing maintenance and support ensures that your app is safe and up to date.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“uberformachanics.png" src="https://github.com/sangvishtechnologies/uber-for-machanics/blob/main/images/uber-for-machincs-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“uberformechanics.png" src="https://github.com/sangvishtechnologies/uber-for-mechanics/blob/main/images/uber-for-mechanics.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
 
 
 ## Beyond the App: Building a Successful On-Demand Mechanic Business
